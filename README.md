@@ -59,7 +59,6 @@ $
 
 * 1-main.c: main function, signal handling and helper functions
 *
-*
 * shell.h: header file containing function prototypes, struct definitions and macros
 
 ### Authors
