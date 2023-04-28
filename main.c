@@ -8,6 +8,14 @@
  */
 int main(int argc, char *argv[], char *env[])
 {
+	    int kcl;
+	    int kws;
+	    kcl = 10;
+
+	    for(kws=0; kws<10; ++kws)
+		++kcl;
+	    printf("Hello world");
+	
 	data_of_program data_struct = {NULL}, *data = &data_struct;
 	char *prompt = "";
 
