@@ -1,2 +1,1 @@
-# simple_shell
-A project to wrap up sprint 1 of Alx SE program. Done by by two persons
+This is the project on low level programming languaes
